@@ -1,0 +1,13 @@
+{
+  "name": "vue-simple-prerender",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "Dossy Shiobara <dossy@panoptic.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^11.2.0",
+    "vue": "^2.4.2"
+  }
+}
